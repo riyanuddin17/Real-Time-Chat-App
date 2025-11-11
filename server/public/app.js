@@ -1,4 +1,4 @@
-const socket = io('ws://localhost:3500');
+const socket = io('ws://localhost:3000');
 
 const msgInput = document.querySelector('#message');
 const nameInput = document.querySelector('#name');
@@ -109,3 +109,4 @@ function showRooms(rooms) {
     });
   }
 }
+
