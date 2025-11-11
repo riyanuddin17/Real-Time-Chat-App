@@ -1,5 +1,6 @@
 # Real-Time Chat Application
 
+#This app runs on 3000 internally
 ## Overview
 The Real-Time Chat Application is a web-based messaging platform that allows users to engage in real-time text-based conversations. Built using Express.js for the backend and Socket.IO for real-time communication, this application provides a seamless chatting experience for users.
 
@@ -46,7 +47,6 @@ To run the Real-Time Chat Application locally, follow these steps:
 - **Notifications**: Implement push notifications for new messages and mentions to keep users informed.
 - **Moderation Tools**: Provide tools for administrators to manage users, monitor conversations, and enforce community guidelines.
 
-## User Interface
-https://realtimeschatapps.netlify.app/
+
 
 ! The website above is only a frontend. !
